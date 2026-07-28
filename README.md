@@ -1,4 +1,4 @@
-# Typeset IntelliJ Plugin (formerly known as Typst Pro Plugin)
+# Scribe IntelliJ Plugin (formerly known as Typst Pro Plugin)
 
 This public repository is for issue reporting for the Typst IntelliJ plugin.
 
